@@ -7,7 +7,6 @@ import os
 import re
 import shutil
 
-
 # defining constants
 
 PATH_IN = 'data/' 
